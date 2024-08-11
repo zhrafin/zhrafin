@@ -1,7 +1,7 @@
 <p align="center">
   # <img src="ai-thoughts-digiday-gif.gif" alt="Profile GIF" width="1030" height="400">
   <br>
-  Hi, I'm Zayeed Hasan 👋
+  # Hi, I'm Zayeed Hasan 👋
   <br>
   **Computer Science Engineering Student | Research Enthusiast | AI Innovator | Competitive Programmer | Machine Learning & Deep Learning Advocate**
 </p>
