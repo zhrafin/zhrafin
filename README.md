@@ -1,6 +1,10 @@
-# <img src="ai-thoughts-digiday-gif.gif" alt="Profile GIF" width="1030" height="400"> Hi, I'm Zayeed Hasan 👋
-
-**Computer Science Engineering Student | Research Enthusiast | AI Innovator | Competitive Programmer | Machine Learning & Deep Learning Advocate**
+<p align="center">
+  # <img src="ai-thoughts-digiday-gif.gif" alt="Profile GIF" width="1030" height="400">
+  <br>
+  Hi, I'm Zayeed Hasan 👋
+  <br>
+  **Computer Science Engineering Student | Research Enthusiast | AI Innovator | Competitive Programmer | Machine Learning & Deep Learning Advocate**
+</p>
 
 Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student and researcher from Dhaka, Bangladesh. My journey spans various fields within computer science, from data science and machine learning to web development and competitive programming. Here’s a snapshot of my expertise and interests:
 
