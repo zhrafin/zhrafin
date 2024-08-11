@@ -1,4 +1,4 @@
-# Hi, I'm Zayeed Hasan 
+# ![Profile GIF](ai-thoughts-digiday-gif.gif) Hi, I'm Zayeed Hasan 👋
 
 **Computer Science Engineering Student | Research Enthusiast | AI Innovator | Competitive Programmer | Machine Learning & Deep Learning Advocate**
 
@@ -46,8 +46,8 @@ To become a leading researcher and machine learning engineer, driving advancemen
 
 ## Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/zayeed-hasan-rafin-3ba25a29a/))
-- [Email](mailto:rafin452@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Email](mailto:your-email@example.com)
 
 ## Thanks for Dropping By!
 
