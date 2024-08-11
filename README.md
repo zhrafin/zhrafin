@@ -1,4 +1,4 @@
-# ![Profile GIF](ai-thoughts-digiday-gif.gif) Hi, I'm Zayeed Hasan 👋
+# <img src="https://your-gif-url.gif" alt="Profile GIF" width="730" height="379"> Hi, I'm Zayeed Hasan 👋
 
 **Computer Science Engineering Student | Research Enthusiast | AI Innovator | Competitive Programmer | Machine Learning & Deep Learning Advocate**
 
