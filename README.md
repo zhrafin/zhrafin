@@ -1,6 +1,6 @@
 
 <p align="center">
-  # <img src="ai-thoughts-digiday-gif.gif" alt="Profile GIF" width="1030" height="400">
+  <img src="ai-thoughts-digiday-gif.gif" alt="Profile GIF" width="1030" height="400">
   <br>
   <strong><h1>Hi, I'm Zayeed Hasan 👋</h1></strong>
   <br>
