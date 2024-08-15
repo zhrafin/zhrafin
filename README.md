@@ -23,7 +23,7 @@ I'm deeply involved in research and development, specializing in:
 
 **Headstarter Fellowship**  
 *July 2024 - August 2024*  
-A 7-week fellowship program where I honed my research and technical skills.
+
 
 ## Skills
 
