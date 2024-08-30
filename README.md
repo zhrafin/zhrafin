@@ -20,7 +20,7 @@ I'm deeply involved in research and development, specializing in:
 ## Experience
 
 **Headstarter Fellowship**  
-*July 2024 - August 2024*  
+*July 2024 - Present*  
 
 
 ## Skills
