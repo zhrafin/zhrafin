@@ -1,57 +1,45 @@
 
-<p align="center">
-  <strong><h1>Hi, I'm Zayeed Hasan 👋</h1></strong>
-  <br>
-  <strong>Computer Science Engineering Student | Research Enthusiast | AI Innovator | Competitive Programmer | Machine Learning & Deep Learning Advocate</strong>
-</p>
 
-Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student and researcher from Dhaka, Bangladesh. My journey spans various fields within computer science, from data science and machine learning to web development and competitive programming. Here’s a snapshot of my expertise and interests:
+# Hi, I'm Zayeed Hasan 👋
+
+**Computer Science Engineering Student | AI Enthusiast | Competitive Programmer | Machine Learning Advocate**
+
+Welcome to my GitHub profile! I’m a Computer Science Engineering student and researcher from Dhaka, Bangladesh, passionate about AI, machine learning, and software development.
 
 ## About Me
 
-I'm deeply involved in research and development, specializing in:
+I specialize in:
 
-- **Programming Languages**: Proficient in Python, C++, Java, HTML, CSS, and data structures & algorithms.
-- **Software Development**: Skilled in Java Swing and Flutter with Dart, and experienced with MySQL for database management.
-- **Machine Learning & Deep Learning**: Expertise in supervised, unsupervised, and deep learning algorithms, along with libraries like TensorFlow, PyTorch, and Scikit-learn.
-- **Web Development**: Hands-on experience in building dynamic and responsive web applications.
-- **Design**: Proficient in Adobe Photoshop and Illustrator, crafting professional and visually compelling designs.
+- **Programming**: Python, C++, Java, HTML, CSS, data structures & algorithms
+- **Software Development**: Java Swing, Flutter (Dart), MySQL
+- **Machine Learning & Deep Learning**: Supervised, unsupervised learning, deep learning (TensorFlow, PyTorch, Scikit-learn)
+- **Web Development**: Dynamic and responsive web apps
+- **Design**: Adobe Photoshop, Illustrator
 
 ## Experience
 
 **Headstarter Fellowship**  
-*July 2024 - Present*  
-
+*July 2024 - Present*
 
 ## Skills
 
-### Languages & Design
-
-- **C++, Java, Python**: Experienced
-- **HTML, CSS**: Intermediate
-- **Database: MySQL**: Experienced
-- **JavaScript**: Basic
-- **Flutter, Dart, Git**: Basic
-- **Adobe Photoshop, Adobe Illustrator**: Professional
+### Programming & Design
+- **Languages**: C++, Java, Python (Advanced), HTML, CSS (Intermediate), JavaScript (Basic)
+- **Database**: MySQL (Experienced)
+- **Web Development**: Flutter (Dart), Git (Basic)
+- **Design**: Adobe Photoshop, Illustrator (Professional)
 
 ### Machine Learning & Data Analysis
-
-- **Supervised Learning Algorithms**: Experienced
-- **Unsupervised Learning Algorithms**: Experienced
-- **Deep Learning Algorithms**: Experienced
-- **Pandas, NumPy, SciPy, Matplotlib**: Experienced
-- **Scikit-learn, Streamlit, Flask**: Experienced
-- **TensorFlow, PyTorch**: Experienced
+- **Algorithms**: Supervised, unsupervised, deep learning (Experienced)
+- **Libraries**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Streamlit, Flask
 
 ## My Goal
 
-To become a leading researcher and machine learning engineer, driving advancements in AI and machine learning with innovative solutions and research.
+To become a leading researcher and machine learning engineer, contributing to advancements in AI.
 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Email](mailto:your-email@example.com)
 
-## Thanks for Dropping By!
-
-Feel free to explore my repositories, reach out for collaborations, or just connect. I look forward to connecting with you!
+Thanks for visiting! Feel free to explore my repositories or connect for collaborations.
