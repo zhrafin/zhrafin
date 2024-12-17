@@ -18,10 +18,15 @@ I specialize in:
 
 ## Experience
 
+
 **Headstarter Fellowship**  
-*July 2024 - August, 2024*
+July 2024 - August 2024  
+
 **Junior Data Analyst @ Xita**  
-*October, 2024 - Present*
+October 2024 - Present  
+
+
+Let me know if you need further adjustments!
 
 ## Skills
 
