@@ -1,8 +1,8 @@
 
 
-# Hi, I'm Zayeed Hasan 👋
+# Hi, I'm Zayeed Hasan 
 
-**Computer Science Engineering Student | AI Enthusiast | Competitive Programmer | Machine Learning Advocate**
+**AI Engineer | Data Analyst | Researcher | GenAI**
 
 Welcome to my GitHub profile! I’m a Computer Science Engineering student and researcher from Dhaka, Bangladesh, passionate about AI, machine learning, and software development.
 
