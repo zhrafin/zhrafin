@@ -4,8 +4,6 @@
 
 **AI Engineer | Data Analyst | Researcher | GenAI**
 
-Welcome to my GitHub profile! I’m a Computer Science Engineering student and researcher from Dhaka, Bangladesh, passionate about AI, machine learning, and software development.
-
 ## About Me
 
 I specialize in:
